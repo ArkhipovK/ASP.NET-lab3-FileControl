@@ -1,0 +1,5 @@
+C:\Users\Роман\Desktop\FileUploadProject\FileUploadProject\bin\FileUploadProject.dll
+C:\Users\Роман\Desktop\FileUploadProject\FileUploadProject\bin\FileUploadProject.pdb
+C:\Users\Роман\Desktop\FileUploadProject\FileUploadProject\obj\Debug\FileUploadProject.dll
+C:\Users\Роман\Desktop\FileUploadProject\FileUploadProject\obj\Debug\FileUploadProject.pdb
+C:\Users\Роман\Desktop\FileUploadProject\FileUploadProject\obj\Debug\FileUploadProject.csprojResolveAssemblyReference.cache
